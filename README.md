@@ -17,12 +17,14 @@ alert("Hello " + prompt("Enter your name :","Shiva") + " !");
     (function () {
       alert("Hello " + prompt("Enter your name :","Shiva") + " !");
     })();
-    alert('$$$FINISHED$$$');
   </script>
 </body>
 ```
 
 > Output :
 
-![output1](output.png)
+```
+Enter your name : Shiva
+Hello Shiva !
+```
 
